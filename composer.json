@@ -1,5 +1,5 @@
 {
-    "name": "nearata/flarum-ext-embed-video",
+    "name": "lonelyclick/flarum-ext-embed-video",
     "description": "Allow users to embed video using DPlayer and BBCode",
     "keywords": [
         "flarum",
